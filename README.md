@@ -2,6 +2,11 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![MIT](https://img.shields.io/badge/MIT-License-blue)
 
+<figure style="text-align: center;">
+  <img src="foto.jpg" alt="" width="696" height="647" />
+  <figcaption><strong></strong></figcaption>
+</figure>
+
 ## **Índice**
 1. [**Descripción**](#descripción)
 2. [**Instalación**](#instalación)
