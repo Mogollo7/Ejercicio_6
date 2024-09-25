@@ -40,7 +40,7 @@ python Ejercicio_6.py
 El código imprimirá los números del 1 al 20, omitiendo el número 10 y deteniéndose en el número 15.
 
 ## **Estructura del Código**
-[Explicación](https://www.youtube.com/watch?v=YqUGzgVIOrQ))
+[Explicación](https://www.youtube.com/watch?v=YqUGzgVIOrQ)
 El código se estructura de la siguiente manera:
 
 1. **Range**: Se define un rango utilizando `range(1, 21)`, lo que genera una secuencia de números del 1 al 20.
